@@ -1,2 +1,1 @@
-# laraveltests
-All my Laravel tests and excersises
+All my Laravel tests and excersises!
